@@ -1,0 +1,17 @@
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\bin\Debug\net8.0\ProductAPI.Application.deps.json
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\bin\Debug\net8.0\ProductAPI.Application.dll
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\bin\Debug\net8.0\ProductAPI.Application.pdb
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\bin\Debug\net8.0\ProductAPI.Domain.dll
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\bin\Debug\net8.0\ProductAPI.Domain.pdb
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ProductAPI.Application.csproj.AssemblyReference.cache
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ProductAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ProductAPI.Application.AssemblyInfoInputs.cache
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ProductAPI.Application.AssemblyInfo.cs
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ProductAPI.Application.csproj.CoreCompileInputs.cache
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ProductA.93279703.Up2Date
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ProductAPI.Application.dll
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\refint\ProductAPI.Application.dll
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ProductAPI.Application.pdb
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Application\obj\Debug\net8.0\ref\ProductAPI.Application.dll

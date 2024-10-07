@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work_Space\\.net_Tuto\\2024\\DemoECommerce.ProductAPISoluction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70AB014-8B73-4912-B8CD-FB90AE86B4E4}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|d:\\work_space\\.net_tuto\\2024\\demoecommerce.productapisoluction\\productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70AB014-8B73-4912-B8CD-FB90AE86B4E4}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E8972A-F0E0-4C2F-87F8-82471372BC42}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|d:\\work_space\\.net_tuto\\2024\\demoecommerce.productapisoluction\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E8972A-F0E0-4C2F-87F8-82471372BC42}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D1B1D7-FD76-41D7-88F8-A08878DD7522}|..\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\work_space\\.net_tuto\\2024\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70AB014-8B73-4912-B8CD-FB90AE86B4E4}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|d:\\work_space\\.net_tuto\\2024\\demoecommerce.productapisoluction\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B70AB014-8B73-4912-B8CD-FB90AE86B4E4}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D1B1D7-FD76-41D7-88F8-A08878DD7522}|..\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\work_space\\.net_tuto\\2024\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoECommerce.ProductAPISoluction\\ProductAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Work_Space\\.net_Tuto\\2024\\DemoECommerce.ProductAPISoluction\\ProductAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwEsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:33:19.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeDocumentMoniker": "..\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ToolTip": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeToolTip": "..\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:28:48.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoECommerce.ProductAPISoluction\\ProductAPI.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Work_Space\\.net_Tuto\\2024\\DemoECommerce.ProductAPISoluction\\ProductAPI.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductAPI.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:18:27.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoECommerce.ProductAPISoluction\\ProductAPI.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI.Presentation\\appsettings.json",
+              "ToolTip": "D:\\Work_Space\\.net_Tuto\\2024\\DemoECommerce.ProductAPISoluction\\ProductAPI.Presentation\\appsettings.json",
+              "RelativeToolTip": "ProductAPI.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T14:16:16.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "..\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:12:03.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

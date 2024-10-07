@@ -1,0 +1,11 @@
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.deps.json
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.dll
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.pdb
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.AssemblyInfoInputs.cache
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.AssemblyInfo.cs
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.dll
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\obj\Debug\net8.0\refint\ProductAPI.Domain.dll
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.pdb
+D:\Work_Space\.net_Tuto\2024\DemoECommerce.ProductAPISoluction\ProductAPI.Domain\obj\Debug\net8.0\ref\ProductAPI.Domain.dll
